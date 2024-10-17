@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brainxtech.caloriescounter",
+      "sha256_cert_fingerprints":
+      ["56:06:C3:C9:BE:4E:0A:06:B9:5F:13:29:4A:6F:21:A4:DC:6A:E9:D3:CD:6D:E0:6C:41:F7:48:19:A5:33:2A:C0"]
+    }
+  }]
